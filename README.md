@@ -89,11 +89,14 @@ An intelligent phishing URL detection project developed to identify potentially 
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 Developer Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karsneha2026-cell&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
-</p>
+- 🚀 Built multiple real-world web development projects.
+- 💻 Created projects using HTML, CSS, JavaScript and Python.
+- 🔐 Developed a Python-based phishing detection project.
+- 🤝 Exploring collaboration and open-source development.
+
+[View My GitHub Achievements](https://github.com/karsneha2026-cell)
 
 ---
 
