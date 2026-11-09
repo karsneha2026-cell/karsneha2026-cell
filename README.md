@@ -75,8 +75,8 @@ An intelligent phishing URL detection project developed to identify potentially 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karsneha2026-cell&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karsneha2026-cell&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karsneha2026-cell&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karsneha2026-cell&theme=tokyonight" width="48%" />
 </p>
 
 ---
