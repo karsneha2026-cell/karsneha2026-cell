@@ -75,8 +75,8 @@ An intelligent phishing URL detection project developed to identify potentially 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karsneha2026-cell&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karsneha2026-cell&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karsneha2026-cell&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karsneha2026-cell&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ An intelligent phishing URL detection project developed to identify potentially 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karsneha2026-cell&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karsneha2026-cell&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
 </p>
 
 ---
